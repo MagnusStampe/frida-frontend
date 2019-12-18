@@ -1,0 +1,142 @@
+{
+    "R1": {
+        "name": "Spagetti carbonára",
+        "imageUrl": "carbonara.jpg",
+        "description": "Put the egg yolks into a bowl, finely grate in the Parmesan, season with pepper, then mix well with a fork and put to one side. Cut any hard skin off the pancetta and set aside, then chop the meat. Cook the spaghetti in a large pan of boiling salted water until al dente. Meanwhile, rub the pancetta skin, if you have any, all over the base of a medium frying pan (this will add fantastic flavour, or use 1 tablespoon of oil instead), then place over a medium-high heat. Peel the garlic, then crush with the palm of your hand, add it to the pan and leave it to flavour the fat for 1 minute. Stir in the pancetta, then cook for 4 minutes, or until it starts to crisp up. Pick out and discard the garlic from the pan, then, reserving some of the cooking water, drain and add the spaghetti. Toss well over the heat so it really soaks up all that lovely flavour, then remove the pan from the heat. Add a splash of the cooking water and toss well, season with pepper, then pour in the egg mixture – the pan will help to cook the egg gently, rather than scrambling it. Toss well, adding more cooking water until it’s lovely and glossy. Serve with a grating of Parmesan and an extra twist of pepper.",
+        "ingredients": {
+            "I1": {
+                "name": "Bacon",
+                "amount": 100,
+                "suffix": "g"
+            },
+            "I2": {
+                "name": "Butter",
+                "amount": 1,
+                "suffix": "tspn"
+            },
+            "I3": {
+                "name": "Cream",
+                "amount": 1,
+                "suffix": "dl"
+            },
+            "I4": {
+                "name": "Egg",
+                "amount": 2,
+                "suffix": ""
+            },
+            "I5": {
+                "name": "Parmasan",
+                "amount": 50,
+                "suffix": "g"
+            },
+            "I6": {
+                "name": "Union",
+                "amount": 1,
+                "suffix": ""
+            }
+        }
+    },
+    "R2": {
+        "name": "Beef burgers",
+        "imageUrl": "burger.jpg",
+        "description": "Cook the beef, bake the bun, fill the burger. Simple as that",
+        "ingredients": {
+            "I1": {
+                "name": "Bacon",
+                "amount": 200,
+                "suffix": "g"
+            },
+            "I2": {
+                "name": "Burger bun",
+                "amount": 1,
+                "suffix": ""
+            },
+            "I3": {
+                "name": "Minced beef",
+                "amount": 0.5,
+                "suffix": "kg"
+            },
+            "I4": {
+                "name": "Tomato",
+                "amount": 2,
+                "suffix": ""
+            },
+            "I5": {
+                "name": "Cucumber",
+                "amount": 1,
+                "suffix": ""
+            }
+        }
+    },
+    "R3": {
+        "name": "Lasagna",
+        "imageUrl": "lasagna.jpg",
+        "description": "Sauce, chessesauce, plates. In that order. Top with grated cheese then 30min at 200celcius.",
+        "ingredients": {
+            "I1": {
+                "name": "Mornay sauce",
+                "amount": 3,
+                "suffix": "dl"
+            },
+            "I2": {
+                "name": "Pasta plates",
+                "amount": 1,
+                "suffix": "pack"
+            },
+            "I3": {
+                "name": "Minced beef",
+                "amount": 500,
+                "suffix": "g"
+            }
+        }
+    },
+    "R4": {
+        "name": "Gourmet duck",
+        "imageUrl": "duck.jpg",
+        "description": "Find a duck in the nearby pond. When catching the duck avoid damage to breast for best meat quality. Cook in oven 200 degree celius till duck is golden brown. Boil potatos together with salt and oil. Serve on a fine plate to ensure gourmet experience.",
+        "ingredients": {
+            "I1": {
+                "name": "Duck",
+                "amount": 1,
+                "suffix": ""
+            },
+            "I2": {
+                "name": "Potatos",
+                "amount": 200,
+                "suffix": "g"
+            },
+            "I3": {
+                "name": "Salt",
+                "amount": 1,
+                "suffix": "tspn."
+            },
+            "I4": {
+                "name": "Oil",
+                "amount": 2,
+                "suffix": "tbsp."
+            }
+        }
+    },
+    "R5": {
+        "name": "Black risotto",
+        "imageUrl": "black-risotto.jpg",
+        "description": "Cook risotto rice in white wine for 5 min then add water. Cook chicken breast and add when risotto rice is done. Put in spinach before serving.",
+        "ingredients": {
+            "I1": {
+                "name": "Black risotto rice",
+                "amount": 400,
+                "suffix": "g"
+            },
+            "I2": {
+                "name": "White win",
+                "amount": 5,
+                "suffix": "dl"
+            },
+            "I3": {
+                "name": "Spinach",
+                "amount": 300,
+                "suffix": "g"
+            }
+        }
+    }
+}
