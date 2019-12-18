@@ -35,9 +35,12 @@ foreach($jRecipes as $key => $jRecipe) {
 
 if($bMealsInFridge){
 ?>
-
+    <form action="recipes.php" style="max-width:500px;margin:0 auto;">
+    <input type="text" id="index_search" placeholder="Search...">
+    </form>
 <h2 class="recipes_header">Meals in your fridge</h2>
 <section id="in_fridge" class="recipes_container">
+
 <?php
 foreach($jInFridge as $key => $jRecipe) {
     ?>

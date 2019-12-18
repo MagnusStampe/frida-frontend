@@ -2,7 +2,11 @@
 
 <h1>Inventory</h1>
 
+
 <section class="inventory_list">
+<form action="inventory.php">
+    <input type="text" id="index_search" placeholder="Search...">
+    </form>
 <?php
 $sjInventory = file_get_contents(__DIR__.'/json/inventory.json');
 $jInventory = json_decode($sjInventory);
